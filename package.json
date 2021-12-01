@@ -1,5 +1,5 @@
 {
-  "name": "ckeditor5-build-full",
+  "name": "ckeditor5-full-zh-cn",
   "version": "3.0.0",
   "description": "The customize full features for classic editor build of CKEditor 5 – the best browser-based rich text editor. Thanks for CKEditor.",
   "publishConfig": {
@@ -37,11 +37,11 @@
   "author": "TMH-SE",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TMH-SE/ckeditor5-build-full/issues"
+    "url": "https://github.com/mushroomlb/ckeditor5-full-zh-cn/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/TMH-SE/ckeditor5-build-full.git"
+    "url": "https://github.com/mushroomlb/ckeditor5-full-zh-cn.git"
   },
   "peerDependencies": {},
   "devDependencies": {
