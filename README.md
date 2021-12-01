@@ -19,7 +19,7 @@ See:
 First, install the build from npm:
 
 ```bash
-npm install --save ckeditor5-build-full
+npm install --save ckeditor5-full-zh-cn
 ```
 
 And use it in your ReactJS application:
@@ -27,7 +27,7 @@ And use it in your ReactJS application:
 ```js
 import React from 'react'
 import { CKEditor } from '@ckeditor/ckeditor5-react'
-import FullEditor from 'ckeditor5-build-full'
+import FullEditor from 'ckeditor5-full-zh-cn'
 
 const index = () => {
   return (
