@@ -2,12 +2,8 @@ CKEditor 5 customize classic editor build
 ========================================
 
 ## Thanks to CKEditor
-[![npm version](https://badge.fury.io/js/ckeditor5-build-full.svg)](https://badge.fury.io/js/ckeditor5-build-full)
-[![devDependency Status](https://david-dm.org/ckeditor/ckeditor5-build-classic/dev-status.svg)](https://david-dm.org/ckeditor/ckeditor5-build-classic?type=dev)
 
 The customize full features for classic editor build for CKEditor 5.
-
-![CKEditor 5 classic editor build screenshot](https://69653.cdn.cke-cs.com/koJQDPDGL6GPN5JawfAb/images/9249665bcd70ba2f08782496313e6cf32c196223d1bf5943.png)
 
 ## Documentation
 
